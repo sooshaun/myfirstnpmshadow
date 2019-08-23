@@ -1,6 +1,6 @@
 # Installation
 
-`npm - i - myfirstnpm --save`
+`npm i myfirstshadowtesting --save`
 
 Then import to the file that you would like to use this feature
 
