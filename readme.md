@@ -19,4 +19,4 @@ There are two options
 * *shadow_type* - _hard | soft_ (default to hard)
 * padding - true | false (default to true)
 * *padding* - _true | false (default to true)
-* *padding* - _true | false_ (default to true)
+* *padding* - _true | false_ (default to true)  <== place the underscore before and after representing inherent the italic styling from padding.
