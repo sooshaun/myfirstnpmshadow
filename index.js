@@ -11,7 +11,7 @@ function shadowizard(options) {
     images.forEach(image => {
         image.style.boxShadow = `10px 10px ${options.shadow_type} 1px rgba(0, 0, 0, 0.12 )`
 
-        if (options.padding === 'true') {
+        if (options.padding === true) {
             image.style.padding = `1rem`;
         } else {
             image.style.padding = `3rem`;
