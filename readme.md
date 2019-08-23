@@ -17,4 +17,4 @@ shadowizard({
 There are two options
 
 * *shadow_type* - _hard | soft_ (default to hard)
-* padding - true | false (default to true)
+* *padding* - true | false (default to true)
